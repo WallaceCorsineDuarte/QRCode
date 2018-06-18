@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnScan;
 
-    private String teste ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
